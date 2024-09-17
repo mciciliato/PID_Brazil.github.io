@@ -30,7 +30,7 @@ As neo-natal testing and new diagnosis techniques become ever more accessible, i
 It is time for patient and medical associations to join forces and promote the importance of patients’ registration for medicine supply planning by using the expertise and experience from states as Distrito Federal that has achieved a registration rate bigger than Argentina’s.</br>
 
 ## Main challenges
-LASID’s database is only fully accessible for MD, so my own access was really limited to a patient’s point of view which doesn’t show the types of PID per institution. This is a huge drawback for data analysis on the PID field because data privacy limits the study’s scope. Nevertheless, I chose to treat every subgroup of PID equally and applied the frequency rate of 50:100,000 to all of them.</br>
+LASID’s database is only fully accessible for MD, so my access was limited to a patient’s point of view which doesn’t show the distribution of PID types in the population. This is a huge drawback for data analysis on the PID field because data privacy limits the study’s scope. Nevertheless, I chose to treat every subgroup of PID equally and applied the frequency rate of 50 in 100,000 births to all subgroups of primary immunodeficiency diseases.</br>
 
 Furthermore, the input that constitutes LASID’s database is written by MD or patients themselves. That being the case, many institutions’ names have spelling errors which made it difficult to relate the organization and their location.</br>
 
