@@ -3,7 +3,7 @@
 ## The project
 This project’s goal was to clarify the number of unregistered and undiagnosed primary immunodeficient patients in Brazil. </br>
 
-Primary immunodeficiency diseases (PID) are rare conditions that are often left aside due to lack of visibility. In Brazil, there is no national PID registry making it almost impossible to precisely describe the number of diagnosed patients, which is stated as 4,000[^1]. As for the number of undiagnosed patients, it is said to be around 160,000[^1].</br>
+Primary immunodeficiency diseases (PID) are rare conditions often left aside due to lack of visibility. In Brazil, there is no national PID registry making it almost impossible to precisely describe the number of diagnosed patients, which is stated as 4,000[^1]. As for the number of undiagnosed patients, it is said to be around 160,000[^1].</br>
 
 Such statements never refer to any published scientific paper and are most likely based on firsthand experience, hence this project aims to validate or refute these overly reproduced assumptions using the most reliable data source for patients’ registry in Brazil, the Latin American Society for Immunodeficiencies (LASID) registry.</br>
 
